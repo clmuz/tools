@@ -135,7 +135,6 @@ public:
 			return PathVector();
 		}
 		PathVector obj = mObjects[object];
-		//TODO:: add method
 		int minX2 = INT_MAX;
 		int minY2 = INT_MAX;
 		int maxX2 = INT_MIN;
